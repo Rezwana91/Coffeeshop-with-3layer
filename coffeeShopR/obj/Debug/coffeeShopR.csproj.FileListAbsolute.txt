@@ -1,0 +1,12 @@
+C:\Ananna-Github\day08\coffeeShopR\bin\Debug\coffeeShopR.exe.config
+C:\Ananna-Github\day08\coffeeShopR\bin\Debug\coffeeShopR.exe
+C:\Ananna-Github\day08\coffeeShopR\bin\Debug\coffeeShopR.pdb
+C:\Ananna-Github\day08\coffeeShopR\obj\Debug\coffeeShopR.csprojAssemblyReference.cache
+C:\Ananna-Github\day08\coffeeShopR\obj\Debug\coffeeShopR.Properties.Resources.resources
+C:\Ananna-Github\day08\coffeeShopR\obj\Debug\coffeeShopR.csproj.GenerateResource.cache
+C:\Ananna-Github\day08\coffeeShopR\obj\Debug\coffeeShopR.csproj.CoreCompileInputs.cache
+C:\Ananna-Github\day08\coffeeShopR\obj\Debug\coffeeShopR.exe
+C:\Ananna-Github\day08\coffeeShopR\obj\Debug\coffeeShopR.pdb
+C:\Ananna-Github\day08\coffeeShopR\obj\Debug\coffeeShopR.itemUi.resources
+C:\Ananna-Github\day08\coffeeShopR\obj\Debug\coffeeShopR.orderUi.resources
+C:\Ananna-Github\day08\coffeeShopR\obj\Debug\coffeeShopR.customer.resources
